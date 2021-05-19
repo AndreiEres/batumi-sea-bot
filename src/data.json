@@ -1,0 +1,590 @@
+{
+  "hours": [
+    {
+      "airTemperature": [
+        { "source": "sg", "value": 17.32 },
+        { "source": "noaa", "value": 18.69 },
+        { "source": "dwd", "value": 17.32 }
+      ],
+      "time": "2021-05-19T00:00:00+00:00",
+      "waterTemperature": [
+        { "source": "sg", "value": 17.1 },
+        { "source": "noaa", "value": 15.33 },
+        { "source": "meto", "value": 17.1 }
+      ],
+      "waveHeight": [
+        { "source": "sg", "value": 0.55 },
+        { "source": "dwd", "value": 0.3 },
+        { "source": "icon", "value": 0.36 },
+        { "source": "meteo", "value": 0.55 }
+      ],
+      "windSpeed": [
+        { "source": "sg", "value": 2.76 },
+        { "source": "noaa", "value": 8.07 },
+        { "source": "icon", "value": 2.76 }
+      ]
+    },
+    {
+      "airTemperature": [
+        { "source": "sg", "value": 17.12 },
+        { "source": "noaa", "value": 17.61 },
+        { "source": "dwd", "value": 17.12 }
+      ],
+      "time": "2021-05-19T01:00:00+00:00",
+      "waterTemperature": [
+        { "source": "sg", "value": 17.09 },
+        { "source": "noaa", "value": 15.2 },
+        { "source": "meto", "value": 17.09 }
+      ],
+      "waveHeight": [
+        { "source": "sg", "value": 0.6 },
+        { "source": "dwd", "value": 0.28 },
+        { "source": "icon", "value": 0.47 },
+        { "source": "meteo", "value": 0.6 }
+      ],
+      "windSpeed": [
+        { "source": "sg", "value": 6.07 },
+        { "source": "noaa", "value": 8.7 },
+        { "source": "icon", "value": 6.07 }
+      ]
+    },
+    {
+      "airTemperature": [
+        { "source": "sg", "value": 17.48 },
+        { "source": "noaa", "value": 16.53 },
+        { "source": "dwd", "value": 17.48 }
+      ],
+      "time": "2021-05-19T02:00:00+00:00",
+      "waterTemperature": [
+        { "source": "sg", "value": 17.09 },
+        { "source": "noaa", "value": 15.06 },
+        { "source": "meto", "value": 17.09 }
+      ],
+      "waveHeight": [
+        { "source": "sg", "value": 0.66 },
+        { "source": "dwd", "value": 0.27 },
+        { "source": "icon", "value": 0.57 },
+        { "source": "meteo", "value": 0.66 }
+      ],
+      "windSpeed": [
+        { "source": "sg", "value": 9.39 },
+        { "source": "noaa", "value": 9.34 },
+        { "source": "icon", "value": 9.39 }
+      ]
+    },
+    {
+      "airTemperature": [
+        { "source": "sg", "value": 16.72 },
+        { "source": "noaa", "value": 15.45 },
+        { "source": "dwd", "value": 16.72 }
+      ],
+      "time": "2021-05-19T03:00:00+00:00",
+      "waterTemperature": [
+        { "source": "sg", "value": 17.09 },
+        { "source": "noaa", "value": 14.93 },
+        { "source": "meto", "value": 17.09 }
+      ],
+      "waveHeight": [
+        { "source": "sg", "value": 0.71 },
+        { "source": "dwd", "value": 0.58 },
+        { "source": "icon", "value": 0.68 },
+        { "source": "meteo", "value": 0.71 }
+      ],
+      "windSpeed": [
+        { "source": "sg", "value": 12.7 },
+        { "source": "noaa", "value": 9.97 },
+        { "source": "icon", "value": 12.7 }
+      ]
+    },
+    {
+      "airTemperature": [
+        { "source": "sg", "value": 16.63 },
+        { "source": "noaa", "value": 15.36 },
+        { "source": "dwd", "value": 16.63 }
+      ],
+      "time": "2021-05-19T04:00:00+00:00",
+      "waterTemperature": [
+        { "source": "sg", "value": 17.1 },
+        { "source": "noaa", "value": 14.94 },
+        { "source": "meto", "value": 17.1 }
+      ],
+      "waveHeight": [
+        { "source": "sg", "value": 0.94 },
+        { "source": "dwd", "value": 1.04 },
+        { "source": "icon", "value": 0.81 },
+        { "source": "meteo", "value": 0.94 }
+      ],
+      "windSpeed": [
+        { "source": "sg", "value": 10.87 },
+        { "source": "noaa", "value": 8.3 },
+        { "source": "icon", "value": 10.87 }
+      ]
+    },
+    {
+      "airTemperature": [
+        { "source": "sg", "value": 16.52 },
+        { "source": "noaa", "value": 15.28 },
+        { "source": "dwd", "value": 16.52 }
+      ],
+      "time": "2021-05-19T05:00:00+00:00",
+      "waterTemperature": [
+        { "source": "sg", "value": 17.14 },
+        { "source": "noaa", "value": 14.94 },
+        { "source": "meto", "value": 17.14 }
+      ],
+      "waveHeight": [
+        { "source": "sg", "value": 1.16 },
+        { "source": "dwd", "value": 1.3 },
+        { "source": "icon", "value": 0.93 },
+        { "source": "meteo", "value": 1.16 }
+      ],
+      "windSpeed": [
+        { "source": "sg", "value": 9.05 },
+        { "source": "noaa", "value": 6.62 },
+        { "source": "icon", "value": 9.05 }
+      ]
+    },
+    {
+      "airTemperature": [
+        { "source": "sg", "value": 16.41 },
+        { "source": "noaa", "value": 15.19 },
+        { "source": "dwd", "value": 16.41 }
+      ],
+      "time": "2021-05-19T06:00:00+00:00",
+      "waterTemperature": [
+        { "source": "sg", "value": 17.19 },
+        { "source": "noaa", "value": 14.95 },
+        { "source": "meto", "value": 17.19 }
+      ],
+      "waveHeight": [
+        { "source": "sg", "value": 1.39 },
+        { "source": "dwd", "value": 1.17 },
+        { "source": "icon", "value": 1.06 },
+        { "source": "meteo", "value": 1.39 }
+      ],
+      "windSpeed": [
+        { "source": "sg", "value": 7.22 },
+        { "source": "noaa", "value": 4.95 },
+        { "source": "icon", "value": 7.22 }
+      ]
+    },
+    {
+      "airTemperature": [
+        { "source": "sg", "value": 17.07 },
+        { "source": "noaa", "value": 15.22 },
+        { "source": "dwd", "value": 17.07 }
+      ],
+      "time": "2021-05-19T07:00:00+00:00",
+      "waterTemperature": [
+        { "source": "sg", "value": 17.26 },
+        { "source": "noaa", "value": 14.98 },
+        { "source": "meto", "value": 17.26 }
+      ],
+      "waveHeight": [
+        { "source": "sg", "value": 1.34 },
+        { "source": "dwd", "value": 0.9 },
+        { "source": "icon", "value": 0.99 },
+        { "source": "meteo", "value": 1.34 }
+      ],
+      "windSpeed": [
+        { "source": "sg", "value": 5.72 },
+        { "source": "noaa", "value": 4.09 },
+        { "source": "icon", "value": 5.72 }
+      ]
+    },
+    {
+      "airTemperature": [
+        { "source": "sg", "value": 17.89 },
+        { "source": "noaa", "value": 15.26 },
+        { "source": "dwd", "value": 17.89 }
+      ],
+      "time": "2021-05-19T08:00:00+00:00",
+      "waterTemperature": [
+        { "source": "sg", "value": 17.33 },
+        { "source": "noaa", "value": 15.02 },
+        { "source": "meto", "value": 17.33 }
+      ],
+      "waveHeight": [
+        { "source": "sg", "value": 1.28 },
+        { "source": "dwd", "value": 0.74 },
+        { "source": "icon", "value": 0.93 },
+        { "source": "meteo", "value": 1.28 }
+      ],
+      "windSpeed": [
+        { "source": "sg", "value": 4.22 },
+        { "source": "noaa", "value": 3.23 },
+        { "source": "icon", "value": 4.22 }
+      ]
+    },
+    {
+      "airTemperature": [
+        { "source": "sg", "value": 18.24 },
+        { "source": "noaa", "value": 15.29 },
+        { "source": "dwd", "value": 18.24 }
+      ],
+      "time": "2021-05-19T09:00:00+00:00",
+      "waterTemperature": [
+        { "source": "sg", "value": 17.41 },
+        { "source": "noaa", "value": 15.05 },
+        { "source": "meto", "value": 17.41 }
+      ],
+      "waveHeight": [
+        { "source": "sg", "value": 1.23 },
+        { "source": "dwd", "value": 0.74 },
+        { "source": "icon", "value": 0.86 },
+        { "source": "meteo", "value": 1.23 }
+      ],
+      "windSpeed": [
+        { "source": "sg", "value": 2.72 },
+        { "source": "noaa", "value": 2.37 },
+        { "source": "icon", "value": 2.72 }
+      ]
+    },
+    {
+      "airTemperature": [
+        { "source": "sg", "value": 18.1 },
+        { "source": "noaa", "value": 15.28 },
+        { "source": "dwd", "value": 18.1 }
+      ],
+      "time": "2021-05-19T10:00:00+00:00",
+      "waterTemperature": [
+        { "source": "sg", "value": 17.46 },
+        { "source": "noaa", "value": 15.42 },
+        { "source": "meto", "value": 17.46 }
+      ],
+      "waveHeight": [
+        { "source": "sg", "value": 1.13 },
+        { "source": "dwd", "value": 0.81 },
+        { "source": "icon", "value": 0.84 },
+        { "source": "meteo", "value": 1.13 }
+      ],
+      "windSpeed": [
+        { "source": "sg", "value": 2.03 },
+        { "source": "noaa", "value": 1.79 },
+        { "source": "icon", "value": 2.03 }
+      ]
+    },
+    {
+      "airTemperature": [
+        { "source": "sg", "value": 18.17 },
+        { "source": "noaa", "value": 15.27 },
+        { "source": "dwd", "value": 18.17 }
+      ],
+      "time": "2021-05-19T11:00:00+00:00",
+      "waterTemperature": [
+        { "source": "sg", "value": 17.5 },
+        { "source": "noaa", "value": 15.78 },
+        { "source": "meto", "value": 17.5 }
+      ],
+      "waveHeight": [
+        { "source": "sg", "value": 1.04 },
+        { "source": "dwd", "value": 0.85 },
+        { "source": "icon", "value": 0.83 },
+        { "source": "meteo", "value": 1.04 }
+      ],
+      "windSpeed": [
+        { "source": "sg", "value": 1.33 },
+        { "source": "noaa", "value": 1.2 },
+        { "source": "icon", "value": 1.33 }
+      ]
+    },
+    {
+      "airTemperature": [
+        { "source": "sg", "value": 18.42 },
+        { "source": "noaa", "value": 15.26 },
+        { "source": "dwd", "value": 18.42 }
+      ],
+      "time": "2021-05-19T12:00:00+00:00",
+      "waterTemperature": [
+        { "source": "sg", "value": 17.53 },
+        { "source": "noaa", "value": 16.14 },
+        { "source": "meto", "value": 17.53 }
+      ],
+      "waveHeight": [
+        { "source": "sg", "value": 0.94 },
+        { "source": "dwd", "value": 0.83 },
+        { "source": "icon", "value": 0.81 },
+        { "source": "meteo", "value": 0.94 }
+      ],
+      "windSpeed": [
+        { "source": "sg", "value": 0.64 },
+        { "source": "noaa", "value": 0.62 },
+        { "source": "icon", "value": 0.64 }
+      ]
+    },
+    {
+      "airTemperature": [
+        { "source": "sg", "value": 18.43 },
+        { "source": "noaa", "value": 15.5 },
+        { "source": "dwd", "value": 18.43 }
+      ],
+      "time": "2021-05-19T13:00:00+00:00",
+      "waterTemperature": [
+        { "source": "sg", "value": 17.54 },
+        { "source": "noaa", "value": 16.06 },
+        { "source": "meto", "value": 17.54 }
+      ],
+      "waveHeight": [
+        { "source": "sg", "value": 0.88 },
+        { "source": "dwd", "value": 0.77 },
+        { "source": "icon", "value": 0.77 },
+        { "source": "meteo", "value": 0.88 }
+      ],
+      "windSpeed": [
+        { "source": "sg", "value": 1.15 },
+        { "source": "noaa", "value": 1.33 },
+        { "source": "icon", "value": 1.15 }
+      ]
+    },
+    {
+      "airTemperature": [
+        { "source": "sg", "value": 17.97 },
+        { "source": "noaa", "value": 15.73 },
+        { "source": "dwd", "value": 17.97 }
+      ],
+      "time": "2021-05-19T14:00:00+00:00",
+      "waterTemperature": [
+        { "source": "sg", "value": 17.54 },
+        { "source": "noaa", "value": 15.98 },
+        { "source": "meto", "value": 17.54 }
+      ],
+      "waveHeight": [
+        { "source": "sg", "value": 0.81 },
+        { "source": "dwd", "value": 0.69 },
+        { "source": "icon", "value": 0.73 },
+        { "source": "meteo", "value": 0.81 }
+      ],
+      "windSpeed": [
+        { "source": "sg", "value": 1.65 },
+        { "source": "noaa", "value": 2.05 },
+        { "source": "icon", "value": 1.65 }
+      ]
+    },
+    {
+      "airTemperature": [
+        { "source": "sg", "value": 17.6 },
+        { "source": "noaa", "value": 15.96 },
+        { "source": "dwd", "value": 17.6 }
+      ],
+      "time": "2021-05-19T15:00:00+00:00",
+      "waterTemperature": [
+        { "source": "sg", "value": 17.52 },
+        { "source": "noaa", "value": 15.9 },
+        { "source": "meto", "value": 17.52 }
+      ],
+      "waveHeight": [
+        { "source": "sg", "value": 0.75 },
+        { "source": "dwd", "value": 0.61 },
+        { "source": "icon", "value": 0.69 },
+        { "source": "meteo", "value": 0.75 }
+      ],
+      "windSpeed": [
+        { "source": "sg", "value": 2.16 },
+        { "source": "noaa", "value": 2.76 },
+        { "source": "icon", "value": 2.16 }
+      ]
+    },
+    {
+      "airTemperature": [
+        { "source": "sg", "value": 16.86 },
+        { "source": "noaa", "value": 15.66 },
+        { "source": "dwd", "value": 16.86 }
+      ],
+      "time": "2021-05-19T16:00:00+00:00",
+      "waterTemperature": [
+        { "source": "sg", "value": 17.48 },
+        { "source": "noaa", "value": 15.35 },
+        { "source": "meto", "value": 17.48 }
+      ],
+      "waveHeight": [
+        { "source": "sg", "value": 0.7 },
+        { "source": "dwd", "value": 0.55 },
+        { "source": "icon", "value": 0.65 },
+        { "source": "meteo", "value": 0.7 }
+      ],
+      "windSpeed": [
+        { "source": "sg", "value": 2.28 },
+        { "source": "noaa", "value": 2.8 },
+        { "source": "icon", "value": 2.28 }
+      ]
+    },
+    {
+      "airTemperature": [
+        { "source": "sg", "value": 15.83 },
+        { "source": "noaa", "value": 15.36 },
+        { "source": "dwd", "value": 15.83 }
+      ],
+      "time": "2021-05-19T17:00:00+00:00",
+      "waterTemperature": [
+        { "source": "sg", "value": 17.44 },
+        { "source": "noaa", "value": 14.8 },
+        { "source": "meto", "value": 17.44 }
+      ],
+      "waveHeight": [
+        { "source": "sg", "value": 0.66 },
+        { "source": "dwd", "value": 0.49 },
+        { "source": "icon", "value": 0.6 },
+        { "source": "meteo", "value": 0.66 }
+      ],
+      "windSpeed": [
+        { "source": "sg", "value": 2.4 },
+        { "source": "noaa", "value": 2.83 },
+        { "source": "icon", "value": 2.4 }
+      ]
+    },
+    {
+      "airTemperature": [
+        { "source": "sg", "value": 15.2 },
+        { "source": "noaa", "value": 15.06 },
+        { "source": "dwd", "value": 15.2 }
+      ],
+      "time": "2021-05-19T18:00:00+00:00",
+      "waterTemperature": [
+        { "source": "sg", "value": 17.41 },
+        { "source": "noaa", "value": 14.25 },
+        { "source": "meto", "value": 17.41 }
+      ],
+      "waveHeight": [
+        { "source": "sg", "value": 0.61 },
+        { "source": "dwd", "value": 0.44 },
+        { "source": "icon", "value": 0.56 },
+        { "source": "meteo", "value": 0.61 }
+      ],
+      "windSpeed": [
+        { "source": "sg", "value": 2.52 },
+        { "source": "noaa", "value": 2.87 },
+        { "source": "icon", "value": 2.52 }
+      ]
+    },
+    {
+      "airTemperature": [
+        { "source": "sg", "value": 14.63 },
+        { "source": "noaa", "value": 15.21 },
+        { "source": "dwd", "value": 14.63 }
+      ],
+      "time": "2021-05-19T19:00:00+00:00",
+      "waterTemperature": [
+        { "source": "sg", "value": 17.39 },
+        { "source": "noaa", "value": 14.27 },
+        { "source": "meto", "value": 17.39 }
+      ],
+      "waveHeight": [
+        { "source": "sg", "value": 0.6 },
+        { "source": "dwd", "value": 0.4 },
+        { "source": "icon", "value": 0.53 },
+        { "source": "meteo", "value": 0.6 }
+      ],
+      "windSpeed": [
+        { "source": "sg", "value": 2.67 },
+        { "source": "noaa", "value": 3.15 },
+        { "source": "icon", "value": 2.67 }
+      ]
+    },
+    {
+      "airTemperature": [
+        { "source": "sg", "value": 14.44 },
+        { "source": "noaa", "value": 15.36 },
+        { "source": "dwd", "value": 14.44 }
+      ],
+      "time": "2021-05-19T20:00:00+00:00",
+      "waterTemperature": [
+        { "source": "sg", "value": 17.38 },
+        { "source": "noaa", "value": 14.29 },
+        { "source": "meto", "value": 17.38 }
+      ],
+      "waveHeight": [
+        { "source": "sg", "value": 0.59 },
+        { "source": "dwd", "value": 0.37 },
+        { "source": "icon", "value": 0.49 },
+        { "source": "meteo", "value": 0.59 }
+      ],
+      "windSpeed": [
+        { "source": "sg", "value": 2.83 },
+        { "source": "noaa", "value": 3.42 },
+        { "source": "icon", "value": 2.83 }
+      ]
+    },
+    {
+      "airTemperature": [
+        { "source": "sg", "value": 14.34 },
+        { "source": "noaa", "value": 15.51 },
+        { "source": "dwd", "value": 14.34 }
+      ],
+      "time": "2021-05-19T21:00:00+00:00",
+      "waterTemperature": [
+        { "source": "sg", "value": 17.37 },
+        { "source": "noaa", "value": 14.31 },
+        { "source": "meto", "value": 17.37 }
+      ],
+      "waveHeight": [
+        { "source": "sg", "value": 0.58 },
+        { "source": "dwd", "value": 0.35 },
+        { "source": "icon", "value": 0.46 },
+        { "source": "meteo", "value": 0.58 }
+      ],
+      "windSpeed": [
+        { "source": "sg", "value": 2.98 },
+        { "source": "noaa", "value": 3.7 },
+        { "source": "icon", "value": 2.98 }
+      ]
+    },
+    {
+      "airTemperature": [
+        { "source": "sg", "value": 14.22 },
+        { "source": "noaa", "value": 15.51 },
+        { "source": "dwd", "value": 14.22 }
+      ],
+      "time": "2021-05-19T22:00:00+00:00",
+      "waterTemperature": [
+        { "source": "sg", "value": 17.35 },
+        { "source": "noaa", "value": 14.34 },
+        { "source": "meto", "value": 17.35 }
+      ],
+      "waveHeight": [
+        { "source": "sg", "value": 0.57 },
+        { "source": "dwd", "value": 0.33 },
+        { "source": "icon", "value": 0.45 },
+        { "source": "meteo", "value": 0.57 }
+      ],
+      "windSpeed": [
+        { "source": "sg", "value": 2.95 },
+        { "source": "noaa", "value": 4.03 },
+        { "source": "icon", "value": 2.95 }
+      ]
+    },
+    {
+      "airTemperature": [
+        { "source": "sg", "value": 14.16 },
+        { "source": "noaa", "value": 15.52 },
+        { "source": "dwd", "value": 14.16 }
+      ],
+      "time": "2021-05-19T23:00:00+00:00",
+      "waterTemperature": [
+        { "source": "sg", "value": 17.34 },
+        { "source": "noaa", "value": 14.36 },
+        { "source": "meto", "value": 17.34 }
+      ],
+      "waveHeight": [
+        { "source": "sg", "value": 0.57 },
+        { "source": "dwd", "value": 0.31 },
+        { "source": "icon", "value": 0.45 },
+        { "source": "meteo", "value": 0.57 }
+      ],
+      "windSpeed": [
+        { "source": "sg", "value": 2.92 },
+        { "source": "noaa", "value": 4.36 },
+        { "source": "icon", "value": 2.92 }
+      ]
+    }
+  ],
+  "meta": {
+    "cost": 1,
+    "dailyQuota": 50,
+    "end": "2021-05-19 00:00",
+    "lat": 41.64228,
+    "lng": 41.63392,
+    "params": ["airTemperature", "windSpeed", "waterTemperature", "waveHeight"],
+    "requestCount": 1,
+    "start": "2021-05-19 00:00"
+  }
+}

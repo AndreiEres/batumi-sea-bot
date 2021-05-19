@@ -1,0 +1,17 @@
+{
+  "name": "batumi-sea-bot",
+  "version": "1.0.0",
+  "main": "batumiSeaBot.js",
+  "license": "MIT",
+  "dependencies": {
+    "cron": "^1.8.2",
+    "dotenv": "^9.0.2",
+    "node-fetch": "^2.6.1",
+    "telegraf": "^4.3.0"
+  },
+  "devDependencies": {
+    "eslint": "^7.26.0",
+    "eslint-config-prettier": "^8.3.0",
+    "prettier": "^2.3.0"
+  }
+}
