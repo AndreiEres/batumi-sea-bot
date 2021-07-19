@@ -1,4 +1,5 @@
 const fetch = require('node-fetch')
+const data = require('./data')
 
 const LAT = 41.64228
 const LNG = 41.63392
@@ -11,10 +12,10 @@ const fetchData = async () => {
     const res = await fetch(DATA_URL, { headers: AUTH_HEADERS })
     if (!res.ok) throw Error(res.statusText)
 
-    global.data = (await res.json()).hours
+    data.hours = (await res.json()).hours
   } catch (error) {
     console.error(error)
-    global.data = []
+    data.hours = []
   }
 }
 

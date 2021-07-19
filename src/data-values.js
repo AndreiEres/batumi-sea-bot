@@ -1,3 +1,4 @@
+const data = require('./data')
 const { currentHour } = require('./utils')
 
 const SG_SOURCE = 'sg'
@@ -21,7 +22,7 @@ class DataValues {
   }
 
   get currentData() {
-    return global.data[currentHour()] || {}
+    return data.hours[currentHour()] || {}
   }
 
   chooseValue(values = []) {
