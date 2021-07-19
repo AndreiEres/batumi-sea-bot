@@ -21,11 +21,11 @@ class Handlers {
     const waterTemperature = ruNormalize(this.values.waterTemperature)
     const waveHeight = ruNormalize(this.values.waveHeight)
 
-    return `Привет!
-Температура воздуха ${airTemperature}\u00a0°C.
-Скорость ветра ${windSpeed}\u00a0м/c.
-Температура воды ${waterTemperature}\u00a0°C.
-Высота волны ${waveHeight}\u00a0м.`
+    return `Воздух ${airTemperature}\u00a0°C.
+Ветер ${windSpeed}\u00a0м/c.
+
+Вода ${waterTemperature}\u00a0°C.
+Волна ${waveHeight}\u00a0м.`
   }
 
   get sticker() {
